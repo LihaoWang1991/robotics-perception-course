@@ -2,7 +2,7 @@
 
 This repository contains the programming assignments I have completed in Coursera course [Robotics: Perception](https://www.coursera.org/learn/robotics-perception). 
 
-Here are some videos to show what I have done in this course.
+Here are some videos to show what I have achieved in this course.
 
 Week 2 project:
 
